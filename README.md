@@ -16,4 +16,8 @@ My personal autoexec.
     in windows you can write cmd in path in explorer to open terminal with your csgo cfg path
 
 
-3. git clone or curl autoexec.cfg from this repository
+3. curl autoexec.cfg from this repository
+
+```
+    curl -o autoexec.cfg https://raw.githubusercontent.com/s0er3n/csgo-autoexec/master/autoexec.cfg
+```
